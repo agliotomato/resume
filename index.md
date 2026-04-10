@@ -28,7 +28,7 @@
 - **NVIDIA** (AI Research Intern)
   - 기간: 2026.06 – 2026.09 
 - **Deep Imaging and Graphics Lab** (Undergraduate Researcher)
-  - 기간 : 2025.01 - 2026.04
+  - 기간: 2026.06 – 2026.09 ㄴ
 ---
 
 ### Project Experience
