@@ -1,11 +1,13 @@
-# [Future CV] 
+# Future CV
 
-## 서현택
+
+> This CV is a virtual future resume created for the 2026 Open Source Software Practice course assignment.
+
+## Hyuntaek Seo (서현택)
 
 ## AI Researcher & Deep Learning Engineer
 
-
-이미지 합성 및 컴퓨터 비전 연구에 매진하는 딥러닝 연구원입니다. 특히 **Generative AI (Diffusion Model)** 분야에서 고성능 보정 및 생성을 위한 엔드-투-엔드 파이프라인 구축에 강점이 있습니다. 향후 시각적 이해와 생성을 결합한 차세대 멀티모달 AI 시스템을 개발하는 것을 목표로 하고 있습니다.
+I am a deep learning researcher dedicated to image synthesis and computer vision. I specialize in building end-to-end pipelines for high-performance image editing and generation, with a focus on **Generative AI (Diffusion Models)**. My goal is to develop next-generation multimodal AI systems that seamlessly integrate visual understanding and creative generation.
 
 ---
 
@@ -17,62 +19,67 @@
 ---
 
 ### Education
-- **광운대학교 (Kwangwoon University)**
-  - 학과: 정보융합학부 데이터사이언스 전공 (B.S. in Information Convergence)
-  - 기간: 2021.03 – 2027.02
-
+- **Kwangwoon University**
+  - Major: B.S. in Information Convergence 
+  - Period: 2021.03 – 2027.02 (Expected)
 
 ---
 
 ### Internship
 - **NVIDIA** (AI Research Intern)
-  - 기간: 2026.06 – 2026.09 
+  - Period: 2026.06 – 2026.09 (Planned)
+  - **Focus**: High-performance inference optimization and large-scale distributed training for generative models.
 - **Deep Imaging and Graphics Lab** (Undergraduate Researcher)
-  - 기간: 2026.06 – 2026.09 ㄴ
+  - Period: 2025.01 – Present
+  - **Focus**: Researching realistic and controllable hair generation models using Diffusion frameworks.
+
 ---
 
 ### Project Experience
 
-#### 1. [Sketch-DiT-ControlNet](https://github.com/agliotomato/Sketch-DiT-ControlNet) (2026.02 – 현재)
-- **개요**: Stable Diffusion 3.5 기반의 고성능 스케치 모발 합성 프레임워크 개발
-- **핵심 기여**:
-  - `MatteCNN`을 구현하여 소프트 매트(Soft-matte)를 DiT ControlNet의 공간 제어 신호로 활용.
-  - RGB 양자화를 통한 스트로크 기반 색상 제어 기능 추가.
-  - 경계 인페인팅 파이프라인 구축을 통한 자연스러운 합성 실현.
+#### 1. [Sketch-DiT-ControlNet](https://github.com/agliotomato/Sketch-DiT-ControlNet) (2026.02 – Present)
+- **Overview**: Developed a high-performance sketch-based hair synthesis framework based on Stable Diffusion 3.5.
+- **Key Contributions**:
+  - Implemented `MatteCNN` to utilize soft-matte signals as spatial control for DiT-based ControlNet.
+  - Enabled stroke-based color manipulation through RGB quantization techniques.
+  - Built a seamless hair-face synthesis pipeline with boundary inpainting and alpha blending.
 
 #### 2. [Hairline-Instructed Diffusion](https://github.com/agliotomato/Hairline-Instructed-Diffusion) (2025.11 – 2026.01)
-- **개요**: 헤어라인 마스크를 조건으로 하는 모발 인페인팅 모델 개발
-- **기술 스택**: Stable Diffusion 1.5/3.5, PyTorch
-- **성과**:
-  - `TinyEncoder`와 `LatentIdentityNet`을 결합한 듀얼 패스 구조 설계로 정체성 유지 및 기하학적 제어 성공.
+- **Overview**: Developed a hair inpainting model conditioned on hairline masks for restorative synthesis.
+- **Tech Stack**: Stable Diffusion 1.5/3.5, PyTorch
+- **Key Results**:
+  - Designed a dual-path architecture using `TinyEncoder` and `LatentIdentityNet` for geometry control and identity preservation.
 
 #### 3. [INSITE: Intelligent Coding Learning Platform](https://github.com/agliotomato/25-team-in-site) (2025.09 – 2025.12)
-- **역할**: 팀 리더 및 발표자
-- **기능**: 온라인 IDE, 사용자 대시보드 및 GPT API 기반 힌트 생성 시스템 구축.
+- **Role**: Team Leader & Presenter
+- **Features**: Developed a full-stack learning platform featuring an online IDE, user dashboards, and GPT-API driven hint generation.
 
 #### 4. Predicting E-Scooter Towing Risk Zones (2025.04 – 2025.06)
-- **분석**: XGBoost와 PCA를 결합하여 서울시 전동 킥보드 견인 위험 구역 예측 (F1-score 0.715 달성).
+- **Analysis**: Developed an XGBoost-based prediction model to identify high-risk towing areas in Seoul (Achieved F1-score: 0.715).
 
 ---
 
 ### Certifications
 - **NVIDIA Deep Learning Institute (DLI)**
-  - `CUDA C++ & Python`: 병렬 알고리즘 최적화 및 GPU 메모리 관리 이수.
-  - `Computer Vision for Industrial Inspection`: 산업용 비전 검사 기법 이수.
-  - `Synthetic Data Generation`: 모델 성능 향상을 위한 합성 데이터 생성 기법 이수.
+  - `CUDA C++ & Python`: Parallel algorithm optimization and GPU memory management.
+  - `Computer Vision for Industrial Inspection`: Advanced techniques for automated quality control.
+  - `Synthetic Data Generation`: Bootstrap model performance using synthetic data.
+- **SQL Developer (SQLD)**: Certified Data Professional.
+- **Advanced Open Water Diver**: SDI Professional Certification.
 
 ---
 
 ### Awards & Honors
-- **2025.04**: Dean's List (학업 우수 장학생)
-- **2026**: Semester High Honors
-- **2025**: Semester High Honors
+- **2026.11**: **President's Award**, Industry-Academic Cooperation Capstone Design Contest
+- **2025.04**: **Dean's List** (Scholarship for Academic Excellence)
+- **2026**: **Semester High Honors**
+- **2025**: **Semester High Honors**
 
 ---
 
 ### Skills
 
-| Category | technologies |
+| Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, C, Java |
 | **Frameworks** | PyTorch, TensorFlow, Scikit-learn, HuggingFace Diffusers |
@@ -82,4 +89,7 @@
 ---
 
 ### References
-박규동 교수님(광운대학교 인공지능융합대학 정보융합학부)
+**Professor Dongjoon Kim**  
+Department of Information Convergence, College of AI Convergence, Kwangwoon University
+
+
